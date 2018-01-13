@@ -10,7 +10,7 @@ support.
 
 **Default settings are exclusively for Makerdreams Evo-One v2018**  
 Please don't try this firmware on older hardware like the "v1 Kickstarter version" unless you know
-what you doing.
+what you are doing.
 
 ***
 
